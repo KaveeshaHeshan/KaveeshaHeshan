@@ -1,5 +1,5 @@
 <div align="center">
-<img src="image_99e94d.png" alt="Welcome to My Profile" width="100%" />
+
 
 # 👋 Hi, I'm Kaveesha Heshan
 
