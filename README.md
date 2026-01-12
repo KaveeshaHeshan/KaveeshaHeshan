@@ -25,9 +25,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
+
 
 </div>
 
@@ -116,8 +114,12 @@
 
 [**Buy Me A Coffee**](https://www.buymeacoffee.com/Support)
 
----
 
 > *"Code is like humor. When you have to explain it, it's bad."*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</p>
+
 
 </div>
