@@ -35,7 +35,7 @@
 
 
 - 🎓 **Education:** Undergraduate at **SLIIT** (Sri Lanka Institute of Information Technology)
-- 🌱 **Current Focus:** Mastering the **React.js** ecosystem and **Java Spring Boot**
+- 🌱 **Current Focus:** Mastering the **React.js** ecosystem and **JavaScript**
 - 👨‍💻 **Expertise:** Full-stack web development, mobile applications, and cloud integration
 - 🎯 **Goal:** Building impactful products that solve real-world problems
 
